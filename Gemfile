@@ -4,6 +4,7 @@ ruby '2.0.0'
 
 gem 'rails', '4.0.2'
 gem 'bootstrap-sass', '2.3.2.0'
+gem 'bcrypt-ruby', '3.1.2'
 
 # This includes rspec-rails in a development environment so that we have access to
 # RSpec-specific generators, and it includes it in test mode in order to run the tests.
